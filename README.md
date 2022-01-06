@@ -1,4 +1,4 @@
 # merge-solo
 We
-Like
+Love
 Cheese
